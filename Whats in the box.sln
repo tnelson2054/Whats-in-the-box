@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whats in the box", "Whats in the box\Whats in the box.csproj", "{0E1E6699-EE7B-42D1-B62A-62C9A4423365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E1E6699-EE7B-42D1-B62A-62C9A4423365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1E6699-EE7B-42D1-B62A-62C9A4423365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1E6699-EE7B-42D1-B62A-62C9A4423365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1E6699-EE7B-42D1-B62A-62C9A4423365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB78C61-1490-476A-A075-89C63D7D2781}
+	EndGlobalSection
+EndGlobal
